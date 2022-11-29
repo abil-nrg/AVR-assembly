@@ -6,8 +6,8 @@
 -Interacted with the lcd display
 -Interacted with input devices
 
-#How to USE
-<!--
+##How to USE
+<!-- headeas
 -->
 -Acquire an ATMEGA 2560 microchip, Buttons, and an lcd screen
 -Load the files into micochip studio and build them
